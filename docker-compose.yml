@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  backend:
+    image: mediporta-api
+    restart: always
+    build:
+      context: src
+      dockerfile: ./dockerfile
+    ports:
+      - 5001:8080

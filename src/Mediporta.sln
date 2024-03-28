@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediporta.Presentation", "Mediporta.Presentation\Mediporta.Presentation.csproj", "{489A7C2B-CC1D-4208-B68E-740163829C65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediporta.Domain", "Mediporta.Domain\Mediporta.Domain.csproj", "{B9211858-1E9B-479E-9051-69DC44ED50C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediporta.Application", "Mediporta.Application\Mediporta.Application.csproj", "{44983804-09EF-4D9E-8999-893FCC8222CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediporta.Infrastructure", "Mediporta.Infrastructure\Mediporta.Infrastructure.csproj", "{1E213B51-0A6E-4A06-8850-EFB48F4FDFD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{489A7C2B-CC1D-4208-B68E-740163829C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489A7C2B-CC1D-4208-B68E-740163829C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489A7C2B-CC1D-4208-B68E-740163829C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489A7C2B-CC1D-4208-B68E-740163829C65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9211858-1E9B-479E-9051-69DC44ED50C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9211858-1E9B-479E-9051-69DC44ED50C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9211858-1E9B-479E-9051-69DC44ED50C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9211858-1E9B-479E-9051-69DC44ED50C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44983804-09EF-4D9E-8999-893FCC8222CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44983804-09EF-4D9E-8999-893FCC8222CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44983804-09EF-4D9E-8999-893FCC8222CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44983804-09EF-4D9E-8999-893FCC8222CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E213B51-0A6E-4A06-8850-EFB48F4FDFD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E213B51-0A6E-4A06-8850-EFB48F4FDFD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E213B51-0A6E-4A06-8850-EFB48F4FDFD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E213B51-0A6E-4A06-8850-EFB48F4FDFD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
